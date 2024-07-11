@@ -3,14 +3,6 @@
   <img src="src/assets/Thumbnail.png" alt="Capa do plann.er" style="width: 100%; max-width: 600px;"/>
 </center>
 
-## Índice
-- [Descrição breve](#descrição-breve)
-- [Funcionalidades principais](#funcionalidades-principais)
-- [Tecnologias usadas](#tecnologias-usadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contato](#contato)
-
 ## 📖 Descrição breve
 **plann.er** é um site desktop para montar planos de viagem com amigos, registrar atividades e links úteis.
 
