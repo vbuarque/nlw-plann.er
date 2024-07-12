@@ -1,6 +1,6 @@
 <center>
   <h1>🌍 plann.er</h1>
-  <img src="src/assets/Thumbnail.png" alt="Capa do plann.er" style="width: 100%; max-width: 600px;"/>
+  <img src="public/Thumbnail.png" alt="Capa do plann.er" style="width: 100%; max-width: 600px;"/>
 </center>
 
 ## 📖 Descrição breve
